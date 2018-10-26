@@ -37,6 +37,12 @@ class StringPractice {
 
 	}
 
+	public void validStringToChar(String tr) {
+		
+		char[] char = tr.st
+		
+	}
+
 }
 
 public class StringTest {
