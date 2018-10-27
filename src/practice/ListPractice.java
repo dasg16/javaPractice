@@ -18,7 +18,8 @@ class PerformAction {
 			System.out.println("Input in add() " + i);
 
 		}
-
+		//this prints all the object in the list/set/map or whatever.
+		//System.out.println(ls);
 	}
 
 	public void addAtParticularIndex(int index, int value) {
